@@ -7,3 +7,7 @@ on the organisation and the global system, without discussing technical details.
 Repositories:
 
 - [Presentations](/gvip-project/presentations/)
+
+To participate, [join our community meetings](https://www.gvip-project.org/community/).
+
+[www.gvip-project.org](https://www.gvip-project.org) Mastodon: @gvip@mastodon.social
