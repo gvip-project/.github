@@ -6,7 +6,7 @@ on the organisation and the global system, without discussing technical details.
 
 Repositories:
 
-- [Presentations](/gvip-project/presentations/)
+- [Presentations](/presentations/)
 
 To participate, [join our community meetings](https://www.gvip-project.org/community/).
 
